@@ -44,23 +44,6 @@ Every page follows the same layout, so you always know where to look.
 
 The last page of every sheet is *Tips* plus a short "Made by" card.
 
-## Folder structure
-
-```text
-SheetStack/
-├── assets/
-│   └── banner.svg
-├── <name>-cheatsheet/
-│   ├── 01-basics.jpg
-│   ├── 02-....jpg
-│   ├── ...
-│   ├── 15-end.jpg
-│   └── <name>-cheatsheet.pdf
-└── README.md
-```
-
-Each sheet lives in its own `<name>-cheatsheet` folder with 15 numbered images and one PDF.
-
 ## Adding a new sheet
 
 1. Create a folder named `<name>-cheatsheet`.
